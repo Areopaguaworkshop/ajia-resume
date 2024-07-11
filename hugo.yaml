@@ -1,3 +1,99 @@
-baseURL: https://example.org/
+baseURL: https://ajiacloud.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Yongjia Yuan 
+theme: "PaperMod"
+paginate: 20
+defaultCcontentLanguage: en
+
+params:
+  env: production
+  title: "Yongjia Yuan Resuem"
+  keywords: [Blog, Lecture]
+  author: ephremyuan
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+params:
+  homeInfoParams: true
+  profileMode:
+    enabled: true
+    title: "Yongjia (Ephrem) Yuan" # optional default will be site title
+    subtitle: "Founder (November 2021 - Present) of two non-profit project GCDFL (introducing Eastern Churches through academic lectures to Chinese Speakers) and CTCFOL (Chinese Translation of Church Fathers from Original Languages). Teacher of Ancient Greek, Syriac languages, Church History, the spirituality of Eastern Churches for over 200 hours. Translator of the works of Church Fathers for over 300k words. Phd Candidate in SOAS, focusing on the Church of the East in Turfan area (7-9 centuries). Lover of DevOps and Web application through Linux, docker, Git, python, javascript." 
+    imageUrl: "https://gcdfl.org:443/wp-content/uploads/2021/12/e785a7e78987.png" # optional
+    imageTitle: "Yongjia Yuan" # optional
+    imageWidth: 320 # custom size
+    imageHeight: 320 # custom size
+    buttons:
+      - name: GCDFL
+        url: "https://www.gcdfl.org/"
+      - name: CTCFOL
+        url: "https://www.ctcfol.org/"
+      - name: Yongjia Yuan Resuem
+        url: "https://www.ajiacloud.org"
+
+  socialIcons: # optional
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/yongjia-yuan-b47a3b182/"
+    - name: "Youtube"
+      url: "https://www.youtube.com/@gcdfl"
+    - name: "Facebook"
+      url: "https://www.facebook.com/yyjfwoaini"
+    - name: Github
+      url: "https://github.com/Areopaguaworkshop"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
+fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 25 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - name: "About"
+      identifier: About
+      url: /about
+      weight: 100
+    - name: "Lectures"
+      identifier: Lecture 
+      url: /lecture
+      weight: 200
+    - name: "Translations"
+      url: /translation
+      weight: 300
+    - name: "Publications"
+      url: /publication
+      weight: 400
+    - name: "DevOps"
+      url: /DevOps
+      weight: 500
+    - name: Search 
+      url: /search 
+      weight: 600
+
+

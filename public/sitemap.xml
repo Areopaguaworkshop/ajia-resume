@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ajiacloud.org/</loc>
+    <lastmod>2024-07-11T23:32:35+00:00</lastmod>
+  </url><url>
+    <loc>https://ajiacloud.org/about/</loc>
+    <lastmod>2024-07-10T23:32:35+00:00</lastmod>
+  </url><url>
+    <loc>https://ajiacloud.org/devops/</loc>
+    <lastmod>2024-07-10T23:32:35+00:00</lastmod>
+  </url><url>
+    <loc>https://ajiacloud.org/lecture/</loc>
+    <lastmod>2024-07-10T23:32:35+00:00</lastmod>
+  </url><url>
+    <loc>https://ajiacloud.org/publication/</loc>
+    <lastmod>2024-07-10T23:32:35+00:00</lastmod>
+  </url><url>
+    <loc>https://ajiacloud.org/categories/</loc>
+  </url><url>
+    <loc>https://ajiacloud.org/search/</loc>
+  </url><url>
+    <loc>https://ajiacloud.org/tags/</loc>
+  </url>
+</urlset>
