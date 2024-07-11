@@ -2,7 +2,7 @@
 title: "Yongjia (Ephrem) Yuan's Translations"
 author: ephremyuan
 type: page
-date: 2024-07-11T23:32:35+00:00
+date: 2024-07-11T20:32:35+00:00
 url: /translation
 ---
 ## Translations from Greek and Syriac

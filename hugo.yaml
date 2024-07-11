@@ -44,7 +44,7 @@ params:
       - name: CTCFOL
         url: "https://www.ctcfol.org/"
       - name: Yongjia Yuan Resuem
-        url: "https://www.ajiacloud.org"
+        url: "https://www.ajiacloud.org/about"
 
   socialIcons: # optional
     - name: "Linkedin"
