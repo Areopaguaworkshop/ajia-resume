@@ -79,10 +79,13 @@ menu:
       identifier: About
       url: /about
       weight: 100
+    - name: "Works"
+      url: /work
+      weight: 200
     - name: "Lectures"
       identifier: Lecture 
       url: /lecture
-      weight: 200
+      weight: 250
     - name: "Translations"
       url: /translation
       weight: 300
@@ -92,8 +95,5 @@ menu:
     - name: "DevOps"
       url: /DevOps
       weight: 500
-    - name: Search 
-      url: /search 
-      weight: 600
 
 
