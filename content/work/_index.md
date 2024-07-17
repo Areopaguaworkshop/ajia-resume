@@ -1,10 +1,11 @@
 ---
-title: "Yongjia (Ephrem) Yuan's Works"
+title: "Yongjia (Ephrem) Yuan's Work and Education"
 author: ephremyuan
 type: page
 date: 2024-07-12T20:32:35+00:00
 url: /work
 ---
+# Work
 
 ### 2021-now, Founder of two non-profit projects GCDFL and CTCFOL
 
@@ -31,3 +32,16 @@ url: /work
 ### May 2010 - August 2013, Children's sinology Editor in Beijing City, China 
 
 > I edited the book The Ten Virtues and Longwenbianying [a famous elementary textbook in Qing dynasty], and published one paper, On The Ten Virtues, online.
+
+# Education
+
+| Time | Degree  | School | focusing |
+| --- | ---- | ---- | -------- |
+| 2021 Sep. -Now | Phd Candidate | SOAS | The Church of the East in Turfan area | 
+| 2019 Apr. - 2021 Nov. | Master of Studies in Theology | Boston College School of Theology and Ministry | Syriac Churches | 
+| 2015 Aug.- 2018 Nov. | Master of Theology | Hellenic College Holy Cross  | the Spiritual of Greek Fathers Greek Tradition | 
+
+- **Language ability**
+
+> Ancient Languages: Chinese, Ancient Greek, Syriac, Latin, Coptic, Sogdian, Old Turkish, Middle Persian
+

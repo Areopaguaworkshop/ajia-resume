@@ -79,7 +79,7 @@ menu:
       identifier: About
       url: /about
       weight: 100
-    - name: "Works"
+    - name: "Phd&Works"
       url: /work
       weight: 200
     - name: "Lectures"
